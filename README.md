@@ -203,6 +203,6 @@ SafeCity AI is a comprehensive AI-powered urban safety and emergency response pl
 - **Geospatial Database**: PostgreSQL PostGIS
 - **Geocoding**: OpenStreetMap Nominatim
 
-## 📁 Project Structure
+
 
 
